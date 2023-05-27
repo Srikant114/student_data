@@ -11,7 +11,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## To run
  
-- git init
+- npm install
 - install all the package
 - Then [npm start](http://localhost:3000/) to start the app*
 - Then [npm run server](http://localhost:5000/students) to start the server*
